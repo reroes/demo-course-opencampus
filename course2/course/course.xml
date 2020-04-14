@@ -1,0 +1,11 @@
+<course advanced_modules="[&quot;survay&quot;, &quot;annotatable&quot;, &quot;word_cloud&quot;, &quot;split_test&quot;, &quot;poll&quot;, &quot;google-document&quot;]" advertised_start="null" catalog_visibility="both" course_image="019.jpg" display_name="Emprendimiento y generación de ideas (Edición 6)" end="&quot;2020-06-06T23:59:00+00:00&quot;" enrollment_end="&quot;2020-04-13T05:00:00+00:00&quot;" enrollment_start="&quot;2020-03-13T05:00:00+00:00&quot;" graceperiod="36000 seconds" language="es" minimum_grade_credit="0.8" start="&quot;2020-04-13T05:00:00+00:00&quot;">
+  <chapter url_name="3b36c8355ed44042b7becc47a8b0354d"/>
+  <chapter url_name="cdaf5b7f942545e3bed187f140abda3c"/>
+  <chapter url_name="384fa2e62cfd4f999fee2cc3b31a4b1e"/>
+  <chapter url_name="1c49def34d5542878369fb781a5bd13f"/>
+  <chapter url_name="99d1a10931274ea085d4c14b101eec18"/>
+  <chapter url_name="d9ac7fc97c3c4ff58d57500c6007db93"/>
+  <chapter url_name="a546a1adf67a45558823f3a030f24131"/>
+  <chapter url_name="7db1d3fe4de24d5f8e7a65ea9861383f"/>
+  <wiki slug="UTPL.EAIG6.2020_1"/>
+</course>

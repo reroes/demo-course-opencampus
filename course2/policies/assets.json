@@ -1,0 +1,598 @@
+{
+    "019.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EAIG6", 
+            "name": "019.jpg", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "2020_1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "019.jpg", 
+        "filename": "asset-v1:UTPL+EAIG5+2019_2+type@asset+block@019.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "EAIG5", 
+            "thumbnail", 
+            "019.jpg", 
+            null
+        ]
+    }, 
+    "019A.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EAIG6", 
+            "name": "019A.jpg", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "2020_1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "019A.jpg", 
+        "filename": "asset-v1:UTPL+EAIG5+2019_2+type@asset+block@019A.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "EAIG5", 
+            "thumbnail", 
+            "019A.jpg", 
+            null
+        ]
+    }, 
+    "Captura_de_pantalla_2018-04-06_a_la_s__17.33.56.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EAIG6", 
+            "name": "Captura_de_pantalla_2018-04-06_a_la_s__17.33.56.png", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "2020_1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Captura de pantalla 2018-04-06 a la(s) 17.33.56.png", 
+        "filename": "asset-v1:UTPL+EAIG+2018_1+type@asset+block@Captura_de_pantalla_2018-04-06_a_la_s__17.33.56.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "EAIG", 
+            "thumbnail", 
+            "Captura_de_pantalla_2018-04-06_a_la_s__17.33.56-png.jpg", 
+            null
+        ]
+    }, 
+    "Cimientos_de_emprendimiento_en_el_Ecuador.pdf": {
+        "contentType": "application/pdf", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EAIG6", 
+            "name": "Cimientos_de_emprendimiento_en_el_Ecuador.pdf", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "2020_1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Cimientos de emprendimiento en el Ecuador.pdf", 
+        "filename": "asset-v1:UTPL+EAIG+2018_1+type@asset+block@Cimientos_de_emprendimiento_en_el_Ecuador.pdf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "EAIG-Ed2-new.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EAIG6", 
+            "name": "EAIG-Ed2-new.jpg", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "2020_1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "EAIG-Ed2-new.jpg", 
+        "filename": "asset-v1:UTPL+EAIG2+2018_2+type@asset+block@EAIG-Ed2-new.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "EAIG2", 
+            "thumbnail", 
+            "EAIG-Ed2-new.jpg", 
+            null
+        ]
+    }, 
+    "EAIG-Ed2.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EAIG6", 
+            "name": "EAIG-Ed2.jpg", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "2020_1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "EAIG-Ed2.jpg", 
+        "filename": "asset-v1:UTPL+EAIG2+2018_2+type@asset+block@EAIG-Ed2.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "EAIG2", 
+            "thumbnail", 
+            "EAIG-Ed2.jpg", 
+            null
+        ]
+    }, 
+    "EAIG-new.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EAIG6", 
+            "name": "EAIG-new.jpg", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "2020_1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "EAIG-new.jpg", 
+        "filename": "asset-v1:UTPL+EAIG+2018_1+type@asset+block@EAIG-new.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "EAIG", 
+            "thumbnail", 
+            "EAIG-new.jpg", 
+            null
+        ]
+    }, 
+    "EAIG.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EAIG6", 
+            "name": "EAIG.jpg", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "2020_1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "EAIG.jpg", 
+        "filename": "asset-v1:UTPL+EAIG3+2018_3+type@asset+block@EAIG.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "EAIG3", 
+            "thumbnail", 
+            "EAIG.jpg", 
+            null
+        ]
+    }, 
+    "EAIG4_new.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EAIG6", 
+            "name": "EAIG4_new.jpg", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "2020_1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "EAIG4_new.jpg", 
+        "filename": "asset-v1:UTPL+EAIG4+2019_1+type@asset+block@EAIG4_new.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "EAIG4", 
+            "thumbnail", 
+            "EAIG4_new.jpg", 
+            null
+        ]
+    }, 
+    "EAIG4_small.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EAIG6", 
+            "name": "EAIG4_small.jpg", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "2020_1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "EAIG4_small.jpg", 
+        "filename": "asset-v1:UTPL+EAIG4+2019_1+type@asset+block@EAIG4_small.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "EAIG4", 
+            "thumbnail", 
+            "EAIG4_small.jpg", 
+            null
+        ]
+    }, 
+    "EAIG_b.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EAIG6", 
+            "name": "EAIG_b.jpg", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "2020_1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "EAIG_b.jpg", 
+        "filename": "asset-v1:UTPL+EAIG3+2018_3+type@asset+block@EAIG_b.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "EAIG3", 
+            "thumbnail", 
+            "EAIG_b.jpg", 
+            null
+        ]
+    }, 
+    "Emprendimiento_Ideas2.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EAIG6", 
+            "name": "Emprendimiento_Ideas2.jpg", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "2020_1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Emprendimiento_Ideas2.jpg", 
+        "filename": "asset-v1:UTPL+EAIG+2018_1+type@asset+block@Emprendimiento_Ideas2.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "EAIG", 
+            "thumbnail", 
+            "Emprendimiento_Ideas2.jpg", 
+            null
+        ]
+    }, 
+    "Emprendimiento_en_Ecuador_Ekos_2015.pdf": {
+        "contentType": "application/pdf", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EAIG6", 
+            "name": "Emprendimiento_en_Ecuador_Ekos_2015.pdf", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "2020_1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Emprendimiento en Ecuador Ekos 2015.pdf", 
+        "filename": "asset-v1:UTPL+EAIG+2018_1+type@asset+block@Emprendimiento_en_Ecuador_Ekos_2015.pdf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "Facebook.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EAIG6", 
+            "name": "Facebook.png", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "2020_1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Facebook.png", 
+        "filename": "asset-v1:UTPL+EAIG2+2018_2+type@asset+block@Facebook.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "EAIG2", 
+            "thumbnail", 
+            "Facebook-png.jpg", 
+            null
+        ]
+    }, 
+    "Foto_DianaEspinoza.JPG": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EAIG6", 
+            "name": "Foto_DianaEspinoza.JPG", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "2020_1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Foto DianaEspinoza.JPG", 
+        "filename": "asset-v1:UTPL+EAIG+2018_1+type@asset+block@Foto_DianaEspinoza.JPG", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "EAIG", 
+            "thumbnail", 
+            "Foto_DianaEspinoza-JPG.jpg", 
+            null
+        ]
+    }, 
+    "Foto_GlendaPonce.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EAIG6", 
+            "name": "Foto_GlendaPonce.jpg", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "2020_1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Foto GlendaPonce.jpg", 
+        "filename": "asset-v1:UTPL+EAIG+2018_1+type@asset+block@Foto_GlendaPonce.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "EAIG", 
+            "thumbnail", 
+            "Foto_GlendaPonce.jpg", 
+            null
+        ]
+    }, 
+    "Impulsores_claves.pdf": {
+        "contentType": "application/pdf", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EAIG6", 
+            "name": "Impulsores_claves.pdf", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "2020_1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Impulsores claves.pdf", 
+        "filename": "asset-v1:UTPL+EAIG+2018_1+type@asset+block@Impulsores_claves.pdf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "ReporteGEM2016.pdf": {
+        "contentType": "application/pdf", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EAIG6", 
+            "name": "ReporteGEM2016.pdf", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "2020_1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "ReporteGEM2016.pdf", 
+        "filename": "asset-v1:UTPL+EAIG+2018_1+type@asset+block@ReporteGEM2016.pdf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "Twitter.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EAIG6", 
+            "name": "Twitter.png", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "2020_1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Twitter.png", 
+        "filename": "asset-v1:UTPL+EAIG2+2018_2+type@asset+block@Twitter.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "EAIG2", 
+            "thumbnail", 
+            "Twitter-png.jpg", 
+            null
+        ]
+    }, 
+    "bombilla-con-el-grafico-de-dibujo_1232-2105.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EAIG6", 
+            "name": "bombilla-con-el-grafico-de-dibujo_1232-2105.jpg", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "2020_1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "bombilla-con-el-grafico-de-dibujo_1232-2105.jpg", 
+        "filename": "asset-v1:UTPL+EAIG+2018_1+type@asset+block@bombilla-con-el-grafico-de-dibujo_1232-2105.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "EAIG", 
+            "thumbnail", 
+            "bombilla-con-el-grafico-de-dibujo_1232-2105.jpg", 
+            null
+        ]
+    }, 
+    "comp_1.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EAIG6", 
+            "name": "comp_1.gif", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "2020_1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "comp 1.gif", 
+        "filename": "asset-v1:UTPL+EAIG+2018_1+type@asset+block@comp_1.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "EAIG", 
+            "thumbnail", 
+            "comp_1-gif.jpg", 
+            null
+        ]
+    }, 
+    "comp_3.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EAIG6", 
+            "name": "comp_3.jpg", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "2020_1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "comp 3.jpg", 
+        "filename": "asset-v1:UTPL+EAIG+2018_1+type@asset+block@comp_3.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "EAIG", 
+            "thumbnail", 
+            "comp_3.jpg", 
+            null
+        ]
+    }, 
+    "coraje-hombre-saltar-a-traves-de-la-brecha-entre-la-colina-concepto-de-concepto-de-negocio_1323-262.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EAIG6", 
+            "name": "coraje-hombre-saltar-a-traves-de-la-brecha-entre-la-colina-concepto-de-concepto-de-negocio_1323-262.jpg", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "2020_1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "coraje-hombre-saltar-a-traves-de-la-brecha-entre-la-colina-concepto-de-concepto-de-negocio_1323-262.jpg", 
+        "filename": "asset-v1:UTPL+EAIG+2018_1+type@asset+block@coraje-hombre-saltar-a-traves-de-la-brecha-entre-la-colina-concepto-de-concepto-de-negocio_1323-262.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "EAIG", 
+            "thumbnail", 
+            "coraje-hombre-saltar-a-traves-de-la-brecha-entre-la-colina-concepto-de-concepto-de-negocio_1323-262.jpg", 
+            null
+        ]
+    }, 
+    "eco.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EAIG6", 
+            "name": "eco.jpg", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "2020_1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "eco.jpg", 
+        "filename": "asset-v1:UTPL+EAIG+2018_1+type@asset+block@eco.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "EAIG", 
+            "thumbnail", 
+            "eco.jpg", 
+            null
+        ]
+    }, 
+    "entrepreneur-2223215_1920.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EAIG6", 
+            "name": "entrepreneur-2223215_1920.png", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "2020_1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "entrepreneur-2223215_1920.png", 
+        "filename": "asset-v1:UTPL+EAIG+2018_1+type@asset+block@entrepreneur-2223215_1920.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "EAIG", 
+            "thumbnail", 
+            "entrepreneur-2223215_1920-png.jpg", 
+            null
+        ]
+    }, 
+    "obj3.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EAIG6", 
+            "name": "obj3.jpg", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "2020_1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "obj3.jpg", 
+        "filename": "asset-v1:UTPL+EAIG+2018_1+type@asset+block@obj3.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "EAIG", 
+            "thumbnail", 
+            "obj3.jpg", 
+            null
+        ]
+    }
+}

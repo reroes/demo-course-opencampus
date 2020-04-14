@@ -1,0 +1,107 @@
+<vertical display_name="Reto 5: Generando ideas">
+  <openassessment url_name="a824ed0fc88e47e6b6c80bf46896f667" submission_start="2019-11-11T00:30:00+00:00" submission_due="2019-11-21T05:00:00+00:00" allow_file_upload="False" allow_latex="False">
+    <title>Suba aquí su tarea</title>
+    <assessments>
+      <assessment name="student-training">
+        <example>
+          <answer>
+            <part>Replace this text with your own sample response for this assignment. Then, under Response Score to the right, select an option for each criterion. Students learn to assess responses by assessing this response and comparing the options that they select in the rubric with the options that you specified.</part>
+            <part></part>
+          </answer>
+          <select criterion="Ideas" option="Fair"/>
+          <select criterion="Content" option="Good"/>
+        </example>
+        <example>
+          <answer>
+            <part>Replace this text with another sample response, and then specify the options that you would select for this response.</part>
+            <part></part>
+          </answer>
+          <select criterion="Ideas" option="Poor"/>
+          <select criterion="Content" option="Good"/>
+        </example>
+      </assessment>
+      <assessment name="peer-assessment" must_grade="5" must_be_graded_by="3" start="2019-11-22T00:30:00+00:00" due="2019-11-28T05:00:00+00:00"/>
+    </assessments>
+    <prompts>
+      <prompt>
+        <description>Una vez que ha revisado los contenidos de la semana 5, los invitamos a generar una tres ideas de negocio (asociada a la categoría seleccionada en el reto 3), estas ideas deben ser creativas, innovadoras, y podrían ser ejecutadas.
+
+1. Copie este enlace en un navegador: 
+http://dataviz.utpl.edu.ec/opencampus/reto/4/10
+
+2. Revise las preguntas que deberá responder en el formulario desplegado
+3. Genere tres ideas de negocio, asociadas a la categoría elegida en el reto 3, estas ideas deberían poder ser lanzadas al mercado.
+4. Ingrese todas las respuestas de acuerdo a las ideas que ha generado, solo se permite ingresar y guardar una sola vez
+5. Haga clic en guardar y en la parte superior revise un link que se ha generado. Se generará un link por la información que usted guardó. 
+6. Debe copiar el enlace generado y pegarlo en la caja de texto, bajo estas instrucciones, solo copiar el enlace, no enviar capturas de pantalla, enviar solo el enlace que se generó. 
+7. Podrá subir el reto 5, del día 11 hasta el 21 de noviembre de 2019.
+8. A partir del 22 de noviembre hasta el 28 de noviembre de 2019, ingrese nuevamente a esta sección y realice la revisión de pares (revisar a 3 compañeros) que se irán asignando aleatoriamente.
+</description>
+      </prompt>
+      <prompt>
+        <description></description>
+      </prompt>
+    </prompts>
+    <rubric>
+      <criterion feedback="optional">
+        <name>Ideas</name>
+        <label>Generación de ideas</label>
+        <prompt>Valoraremos las ideas generadas, la creatividad, pertinencia e innovación de cada una.</prompt>
+        <option points="0">
+          <name>Poor</name>
+          <label>No desarrolla</label>
+          <explanation>No desarrolla el reto</explanation>
+        </option>
+        <option points="3">
+          <name>Fair</name>
+          <label>Ideas no creativas </label>
+          <explanation>- Las ideas que se presentan no son creativas e innovadoras.
+- No desarrolla las 3 ideas que se solicitan en el reto
+- No trabajaría en ninguna de las ideas propuestas</explanation>
+        </option>
+        <option points="6">
+          <name>Good</name>
+          <label>Ideas algo creativas</label>
+          <explanation>- Las ideas presentan cierto grado de creatividad.
+- No todas las ideas son creativas
+- - Le gustaría trabajar en alguna de las ideas propuestas</explanation>
+        </option>
+        <option points="10">
+          <name>0</name>
+          <label>Ideas creativas</label>
+          <explanation>- Las ideas son creativas e innovadoras, podrían ser puedas en el mercado. 
+- Le gustaría trabajar en alguna de las ideas propuestas</explanation>
+        </option>
+      </criterion>
+      <criterion>
+        <name>Content</name>
+        <label>Content</label>
+        <prompt>Assess the content of the submission</prompt>
+        <option points="0">
+          <name>Poor</name>
+          <label>Poor</label>
+          <explanation>Includes little information with few or no details or unrelated details.  Unsuccessful in attempts to explore any facets of the topic.</explanation>
+        </option>
+        <option points="1">
+          <name>Fair</name>
+          <label>Fair</label>
+          <explanation>Includes little information and few or no details.  Explores only one or two facets of the topic.</explanation>
+        </option>
+        <option points="3">
+          <name>Good</name>
+          <label>Good</label>
+          <explanation>Includes sufficient information and supporting details. (Details may not be fully developed; ideas may be listed.)  Explores some facets of the topic.</explanation>
+        </option>
+        <option points="3">
+          <name>Excellent</name>
+          <label>Excellent</label>
+          <explanation>Includes in-depth information and exceptional supporting details that are fully developed.  Explores all facets of the topic.</explanation>
+        </option>
+      </criterion>
+      <feedbackprompt>(Optional) What aspects of this response stood out to you? What did it do well? How could it improve?
+</feedbackprompt>
+      <feedback_default_text>I noticed that this response...
+</feedback_default_text>
+    </rubric>
+  </openassessment>
+</vertical>

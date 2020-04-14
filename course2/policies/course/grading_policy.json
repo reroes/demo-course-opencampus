@@ -1,0 +1,49 @@
+{
+    "GRADER": [
+        {
+            "drop_count": 0, 
+            "min_count": 1, 
+            "short_label": "Reto1", 
+            "type": "Reto 1: Ecosistema emprendedor de mi localidad", 
+            "weight": 0.15
+        }, 
+        {
+            "drop_count": 0, 
+            "min_count": 1, 
+            "short_label": "Reto2", 
+            "type": "Reto 2: Conociendo al emprendedor", 
+            "weight": 0.15
+        }, 
+        {
+            "drop_count": 0, 
+            "min_count": 1, 
+            "short_label": "Reto3", 
+            "type": "Reto 3: Diagnosticando el entorno", 
+            "weight": 0.15
+        }, 
+        {
+            "drop_count": 0, 
+            "min_count": 1, 
+            "short_label": "Reto4", 
+            "type": "Reto 4: Observa e innova", 
+            "weight": 0.15
+        }, 
+        {
+            "drop_count": 0, 
+            "min_count": 1, 
+            "short_label": "Reto5", 
+            "type": "Reto 5: Generando ideas", 
+            "weight": 0.15
+        }, 
+        {
+            "drop_count": 0, 
+            "min_count": 1, 
+            "short_label": "Reto6", 
+            "type": "Reto 6: Mi idea de negocio y su prototipo ", 
+            "weight": 0.25
+        }
+    ], 
+    "GRADE_CUTOFFS": {
+        "Pass": 0.7
+    }
+}
