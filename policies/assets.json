@@ -1,0 +1,409 @@
+{
+    "01-mostrarDiscusion.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "AIRPOLLUTION-Ed3", 
+            "name": "01-mostrarDiscusion.png", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "ABR_2017", 
+            "tag": "c4x"
+        }, 
+        "displayname": "01-mostrarDiscusion.png", 
+        "filename": "asset-v1:UTPL+AIRPOLLUTION-Ed2+2017-FEB+type@asset+block@01-mostrarDiscusion.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "AIRPOLLUTION-Ed2", 
+            "thumbnail", 
+            "01-mostrarDiscusion-png.jpg", 
+            null
+        ]
+    }, 
+    "02-expanderDiscusio_n.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "AIRPOLLUTION-Ed3", 
+            "name": "02-expanderDiscusio_n.png", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "ABR_2017", 
+            "tag": "c4x"
+        }, 
+        "displayname": "02-expanderDiscusio\u0301n.png", 
+        "filename": "asset-v1:UTPL+AIRPOLLUTION-Ed2+2017-FEB+type@asset+block@02-expanderDiscusio_n.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "AIRPOLLUTION-Ed2", 
+            "thumbnail", 
+            "02-expanderDiscusio_n-png.jpg", 
+            null
+        ]
+    }, 
+    "03-leerOtrasOpiniones.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "AIRPOLLUTION-Ed3", 
+            "name": "03-leerOtrasOpiniones.png", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "ABR_2017", 
+            "tag": "c4x"
+        }, 
+        "displayname": "03-leerOtrasOpiniones.png", 
+        "filename": "asset-v1:UTPL+AIRPOLLUTION-Ed2+2017-FEB+type@asset+block@03-leerOtrasOpiniones.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "AIRPOLLUTION-Ed2", 
+            "thumbnail", 
+            "03-leerOtrasOpiniones-png.jpg", 
+            null
+        ]
+    }, 
+    "04-ingresarOpinion.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "AIRPOLLUTION-Ed3", 
+            "name": "04-ingresarOpinion.png", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "ABR_2017", 
+            "tag": "c4x"
+        }, 
+        "displayname": "04-ingresarOpinion.png", 
+        "filename": "asset-v1:UTPL+AIRPOLLUTION-Ed2+2017-FEB+type@asset+block@04-ingresarOpinion.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "AIRPOLLUTION-Ed2", 
+            "thumbnail", 
+            "04-ingresarOpinion-png.jpg", 
+            null
+        ]
+    }, 
+    "05-enviar.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "AIRPOLLUTION-Ed3", 
+            "name": "05-enviar.png", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "ABR_2017", 
+            "tag": "c4x"
+        }, 
+        "displayname": "05-enviar.png", 
+        "filename": "asset-v1:UTPL+AIRPOLLUTION-Ed2+2017-FEB+type@asset+block@05-enviar.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "AIRPOLLUTION-Ed2", 
+            "thumbnail", 
+            "05-enviar-png.jpg", 
+            null
+        ]
+    }, 
+    "AirPollution-Ed2-New.jpeg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "AIRPOLLUTION-Ed3", 
+            "name": "AirPollution-Ed2-New.jpeg", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "ABR_2017", 
+            "tag": "c4x"
+        }, 
+        "displayname": "AirPollution-Ed2-New.jpeg", 
+        "filename": "asset-v1:UTPL+AIRPOLLUTION-Ed2+2017-FEB+type@asset+block@AirPollution-Ed2-New.jpeg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "AIRPOLLUTION-Ed2", 
+            "thumbnail", 
+            "AirPollution-Ed2-New-jpeg.jpg", 
+            null
+        ]
+    }, 
+    "AirPollution-Ed2.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "AIRPOLLUTION-Ed3", 
+            "name": "AirPollution-Ed2.jpg", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "ABR_2017", 
+            "tag": "c4x"
+        }, 
+        "displayname": "AirPollution-Ed2.jpg", 
+        "filename": "asset-v1:UTPL+AIRPOLLUTION-Ed2+2017-FEB+type@asset+block@AirPollution-Ed2.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "AIRPOLLUTION-Ed2", 
+            "thumbnail", 
+            "AirPollution-Ed2.jpg", 
+            null
+        ]
+    }, 
+    "CALENTAMIRENTO_GLOBAL_LISTO.pdf": {
+        "contentType": "application/pdf", 
+        "content_son": {
+            "category": "asset", 
+            "course": "AIRPOLLUTION-Ed3", 
+            "name": "CALENTAMIRENTO_GLOBAL_LISTO.pdf", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "ABR_2017", 
+            "tag": "c4x"
+        }, 
+        "displayname": "CALENTAMIRENTO GLOBAL LISTO.pdf", 
+        "filename": "asset-v1:UTPL+AIRPOLLUTION-Ed2+2017-FEB+type@asset+block@CALENTAMIRENTO_GLOBAL_LISTO.pdf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "CONTAMINACION_AC\u00daSTICA.pdf": {
+        "contentType": "application/pdf", 
+        "content_son": {
+            "category": "asset", 
+            "course": "AIRPOLLUTION-Ed3", 
+            "name": "CONTAMINACION_AC\u00daSTICA.pdf", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "ABR_2017", 
+            "tag": "c4x"
+        }, 
+        "displayname": "CONTAMINACION AC\u00daSTICA.pdf", 
+        "filename": "asset-v1:UTPL+AIRPOLLUTION-Ed2+2017-FEB+type@asset+block@CONTAMINACION_AC\u00daSTICA.pdf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "CONTAMINACION_DEL_AGUA_LISTO.pdf": {
+        "contentType": "application/pdf", 
+        "content_son": {
+            "category": "asset", 
+            "course": "AIRPOLLUTION-Ed3", 
+            "name": "CONTAMINACION_DEL_AGUA_LISTO.pdf", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "ABR_2017", 
+            "tag": "c4x"
+        }, 
+        "displayname": "CONTAMINACION DEL AGUA LISTO.pdf", 
+        "filename": "asset-v1:UTPL+AIRPOLLUTION-Ed2+2017-FEB+type@asset+block@CONTAMINACION_DEL_AGUA_LISTO.pdf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "CONTAMINACION_POR_RUIDO_LISTO-copy-1.pdf": {
+        "contentType": "application/pdf", 
+        "content_son": {
+            "category": "asset", 
+            "course": "AIRPOLLUTION-Ed3", 
+            "name": "CONTAMINACION_POR_RUIDO_LISTO-copy-1.pdf", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "ABR_2017", 
+            "tag": "c4x"
+        }, 
+        "displayname": "CONTAMINACION POR RUIDO LISTO-copy-1.pdf", 
+        "filename": "asset-v1:UTPL+AIRPOLLUTION-Ed2+2017-FEB+type@asset+block@CONTAMINACION_POR_RUIDO_LISTO-copy-1.pdf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "CONTAMINACI\u00d3N_DEL_AIRE_LISTO.pdf": {
+        "contentType": "application/pdf", 
+        "content_son": {
+            "category": "asset", 
+            "course": "AIRPOLLUTION-Ed3", 
+            "name": "CONTAMINACI\u00d3N_DEL_AIRE_LISTO.pdf", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "ABR_2017", 
+            "tag": "c4x"
+        }, 
+        "displayname": "CONTAMINACI\u00d3N DEL AIRE LISTO.pdf", 
+        "filename": "asset-v1:UTPL+AIRPOLLUTION-Ed2+2017-FEB+type@asset+block@CONTAMINACI\u00d3N_DEL_AIRE_LISTO.pdf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "CONTAMINACI\u00d3N_DEL_SUELO_LISTO.pptx.pdf": {
+        "contentType": "application/pdf", 
+        "content_son": {
+            "category": "asset", 
+            "course": "AIRPOLLUTION-Ed3", 
+            "name": "CONTAMINACI\u00d3N_DEL_SUELO_LISTO.pptx.pdf", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "ABR_2017", 
+            "tag": "c4x"
+        }, 
+        "displayname": "CONTAMINACI\u00d3N DEL SUELO LISTO.pptx.pdf", 
+        "filename": "asset-v1:UTPL+AIRPOLLUTION-Ed2+2017-FEB+type@asset+block@CONTAMINACI\u00d3N_DEL_SUELO_LISTO.pptx.pdf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "CONTAMINACI\u00d3N_POR_RESIDUOS_S\u00d3LIDOS.pdf": {
+        "contentType": "application/pdf", 
+        "content_son": {
+            "category": "asset", 
+            "course": "AIRPOLLUTION-Ed3", 
+            "name": "CONTAMINACI\u00d3N_POR_RESIDUOS_S\u00d3LIDOS.pdf", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "ABR_2017", 
+            "tag": "c4x"
+        }, 
+        "displayname": "CONTAMINACI\u00d3N POR RESIDUOS S\u00d3LIDOS.pdf", 
+        "filename": "asset-v1:UTPL+AIRPOLLUTION-Ed2+2017-FEB+type@asset+block@CONTAMINACI\u00d3N_POR_RESIDUOS_S\u00d3LIDOS.pdf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "FotoJoseMiguel.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "AIRPOLLUTION-Ed3", 
+            "name": "FotoJoseMiguel.jpg", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "ABR_2017", 
+            "tag": "c4x"
+        }, 
+        "displayname": "FotoJoseMiguel.jpg", 
+        "filename": "asset-v1:UTPL+AIRPOLLUTION+2017_ENE+type@asset+block@FotoJoseMiguel.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "AIRPOLLUTION", 
+            "thumbnail", 
+            "FotoJoseMiguel.jpg", 
+            null
+        ]
+    }, 
+    "Nuevos__portadas.001.jpeg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "AIRPOLLUTION-Ed3", 
+            "name": "Nuevos__portadas.001.jpeg", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "ABR_2017", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Nuevos, portadas.001.jpeg", 
+        "filename": "asset-v1:UTPL+AIRPOLLUTION+2017_ENE+type@asset+block@Nuevos__portadas.001.jpeg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "AIRPOLLUTION", 
+            "thumbnail", 
+            "Nuevos__portadas.001-jpeg.jpg", 
+            null
+        ]
+    }, 
+    "industry-611668_1920-2.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "AIRPOLLUTION-Ed3", 
+            "name": "industry-611668_1920-2.jpg", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "ABR_2017", 
+            "tag": "c4x"
+        }, 
+        "displayname": "industry-611668_1920-2.jpg", 
+        "filename": "asset-v1:UTPL+AIRPOLLUTION+2017_ENE+type@asset+block@industry-611668_1920-2.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "AIRPOLLUTION", 
+            "thumbnail", 
+            "industry-611668_1920-2.jpg", 
+            null
+        ]
+    }, 
+    "portada.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "AIRPOLLUTION-Ed3", 
+            "name": "portada.jpg", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "ABR_2017", 
+            "tag": "c4x"
+        }, 
+        "displayname": "portada.jpg", 
+        "filename": "asset-v1:UTPL+AIRPOLLUTION-Ed3+ABR_2017+type@asset+block@portada.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "AIRPOLLUTION-Ed3", 
+            "thumbnail", 
+            "portada.jpg", 
+            null
+        ]
+    }, 
+    "portada_new.001.jpeg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "AIRPOLLUTION-Ed3", 
+            "name": "portada_new.001.jpeg", 
+            "org": "UTPL", 
+            "revision": null, 
+            "run": "ABR_2017", 
+            "tag": "c4x"
+        }, 
+        "displayname": "portada_new.001.jpeg", 
+        "filename": "asset-v1:UTPL+AIRPOLLUTION-Ed3+ABR_2017+type@asset+block@portada_new.001.jpeg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UTPL", 
+            "AIRPOLLUTION-Ed3", 
+            "thumbnail", 
+            "portada_new.001-jpeg.jpg", 
+            null
+        ]
+    }
+}

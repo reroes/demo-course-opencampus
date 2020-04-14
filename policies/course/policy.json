@@ -1,0 +1,54 @@
+{
+    "course/course": {
+        "advanced_modules": [
+            "annotatable", 
+            "word_cloud", 
+            "split_test", 
+            "poll", 
+            "google-document"
+        ], 
+        "advertised_start": null, 
+        "catalog_visibility": "both", 
+        "course_image": "portada.jpg", 
+        "discussion_topics": {
+            "General": {
+                "id": "course"
+            }
+        }, 
+        "display_name": "Contaminaci\u00f3n Atmosf\u00e9rica (3\u00aa edici\u00f3n)", 
+        "end": "2017-05-26T23:59:00Z", 
+        "enrollment_end": "2017-04-17T05:00:00Z", 
+        "enrollment_start": "2017-03-23T05:00:00Z", 
+        "graceperiod": "18000 seconds", 
+        "is_new": true, 
+        "language": "es", 
+        "minimum_grade_credit": 0.8, 
+        "start": "2017-04-10T05:00:00Z", 
+        "tabs": [
+            {
+                "name": "Courseware", 
+                "type": "courseware"
+            }, 
+            {
+                "name": "Course Info", 
+                "type": "course_info"
+            }, 
+            {
+                "name": "Textbooks", 
+                "type": "textbooks"
+            }, 
+            {
+                "name": "Discussion", 
+                "type": "discussion"
+            }, 
+            {
+                "name": "Wiki", 
+                "type": "wiki"
+            }, 
+            {
+                "name": "Progress", 
+                "type": "progress"
+            }
+        ]
+    }
+}

@@ -1,0 +1,98 @@
+<problem display_name="Cuestionario " markdown="Lea las siguientes proposiciones y seleccione la respuesta correcta.&#10;&#10;&gt;&gt;1. El suelo en elevadas concentraciones de contaminación constituye un riesgo a la salud humana y medio ambiente:&lt;&lt;&#10;(x) a. Totalmente&#10;( ) b. Medianamente&#10;( ) c. De modo insignificante&#10;&#10;&gt;&gt;2. La formación del suelo es la acción combinada de:&lt;&lt;&#10;( ) a. Cuatro factores&#10;(x) b. Cinco factores&#10;( ) c. Seis factores&#10;&#10;&gt;&gt;3. Un proceso edafogénico es la formación de suelo a partir de:&lt;&lt;&#10;( ) a. Mineralización&#10;(x) b. Roca madre o roca parental&#10;( ) c. Materia orgánica&#10;&#10;&gt;&gt;4. Se considera como suelo contaminado la alteración negativa de los componentes físicos, químicos y biológicos por acciones:&lt;&lt;&#10;( ) a. Naturales&#10;(x) b. Antropogénicas&#10;( ) c. Combinadas&#10;&#10;&gt;&gt;5. Los factores que intervienen en la formación del suelo son:&lt;&lt;&#10;( ) a. Aire, viento, relieve&#10;(x) b. Clima, relieve, condiciones biológicas&#10;( ) c. Material orgánico, tiempo, viento&#10;&#10;&gt;&gt;6. La capacidad de un contaminante para extenderse a lo largo del suelo y hacia otros sistemas relacionados se conoce como:&lt;&lt;&#10;( ) a. Biodisponibilidad&#10;( ) b. Persistencia&#10;(x) c. Movilidad&#10;&#10;&gt;&gt;7. El composteo es:&lt;&lt;&#10;(x) a. La separación y utilización de materia orgánica, para la fertilización del suelo en forma estratificada.&#10;( ) b. Disposición final de basura en un relleno sanitario&#10;( ) c. Reutilización de residuos para almacenamiento de sustancias químicas&#10;&#10;&gt;&gt;8. La contaminación agrícola de suelo se produce por:&lt;&lt;&#10;( ) a. Utilización de compuestos orgánicos en proceso de biodegradación&#10;( ) b. Utilización de aguas de pozo para riego de cultivos&#10;(x) c. Utilización de de fertilizantes, plaguicidas y herbicidas&#10;&#10;&gt;&gt;9. La contaminación del suelo por la minería se da por: &lt;&lt;&#10;( ) a. Vertido directo de productos líquidos&#10;( ) b. Infiltración de productos de lixiviación&#10;( ) c. Agua de relave&#10;(x) d. Todas la anteriores&#10;&#10;&gt;&gt;10. Los efectos de la lluvia ácida en el suelo produce :&lt;&lt;&#10;(x) a. Variación del pH&#10;( ) b. Aumento de los nutrientes &#10;( ) c. Disminución de nutrientes&#10;&#10;&#10;¿Tuvo algún inconveniente en resolver esta evaluación? Si es así, no se desanime, revise nuevamente el contenido de la unidad con la finalidad de mejorar su aprendizaje.&#10;Felicitaciones, ha finalizado esta unidad y por lo tanto está en condiciones de continuar con el tema siguiente.&#10;" weight="10.0">
+<p>Lea las siguientes proposiciones y seleccione la respuesta correcta.</p>
+
+<p>1. El suelo en elevadas concentraciones de contaminación constituye un riesgo a la salud humana y medio ambiente:</p>
+<multiplechoiceresponse>
+  <choicegroup label="1. El suelo en elevadas concentraciones de contaminación constituye un riesgo a la salud humana y medio ambiente:" type="MultipleChoice">
+    <choice correct="true">a. Totalmente</choice>
+    <choice correct="false">b. Medianamente</choice>
+    <choice correct="false">c. De modo insignificante</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2. La formación del suelo es la acción combinada de:</p>
+<multiplechoiceresponse>
+  <choicegroup label="2. La formación del suelo es la acción combinada de:" type="MultipleChoice">
+    <choice correct="false">a. Cuatro factores</choice>
+    <choice correct="true">b. Cinco factores</choice>
+    <choice correct="false">c. Seis factores</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3. Un proceso edafogénico es la formación de suelo a partir de:</p>
+<multiplechoiceresponse>
+  <choicegroup label="3. Un proceso edafogénico es la formación de suelo a partir de:" type="MultipleChoice">
+    <choice correct="false">a. Mineralización</choice>
+    <choice correct="true">b. Roca madre o roca parental</choice>
+    <choice correct="false">c. Materia orgánica</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4. Se considera como suelo contaminado la alteración negativa de los componentes físicos, químicos y biológicos por acciones:</p>
+<multiplechoiceresponse>
+  <choicegroup label="4. Se considera como suelo contaminado la alteración negativa de los componentes físicos, químicos y biológicos por acciones:" type="MultipleChoice">
+    <choice correct="false">a. Naturales</choice>
+    <choice correct="true">b. Antropogénicas</choice>
+    <choice correct="false">c. Combinadas</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5. Los factores que intervienen en la formación del suelo son:</p>
+<multiplechoiceresponse>
+  <choicegroup label="5. Los factores que intervienen en la formación del suelo son:" type="MultipleChoice">
+    <choice correct="false">a. Aire, viento, relieve</choice>
+    <choice correct="true">b. Clima, relieve, condiciones biológicas</choice>
+    <choice correct="false">c. Material orgánico, tiempo, viento</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>6. La capacidad de un contaminante para extenderse a lo largo del suelo y hacia otros sistemas relacionados se conoce como:</p>
+<multiplechoiceresponse>
+  <choicegroup label="6. La capacidad de un contaminante para extenderse a lo largo del suelo y hacia otros sistemas relacionados se conoce como:" type="MultipleChoice">
+    <choice correct="false">a. Biodisponibilidad</choice>
+    <choice correct="false">b. Persistencia</choice>
+    <choice correct="true">c. Movilidad</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>7. El composteo es:</p>
+<multiplechoiceresponse>
+  <choicegroup label="7. El composteo es:" type="MultipleChoice">
+    <choice correct="true">a. La separación y utilización de materia orgánica, para la fertilización del suelo en forma estratificada.</choice>
+    <choice correct="false">b. Disposición final de basura en un relleno sanitario</choice>
+    <choice correct="false">c. Reutilización de residuos para almacenamiento de sustancias químicas</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>8. La contaminación agrícola de suelo se produce por:</p>
+<multiplechoiceresponse>
+  <choicegroup label="8. La contaminación agrícola de suelo se produce por:" type="MultipleChoice">
+    <choice correct="false">a. Utilización de compuestos orgánicos en proceso de biodegradación</choice>
+    <choice correct="false">b. Utilización de aguas de pozo para riego de cultivos</choice>
+    <choice correct="true">c. Utilización de de fertilizantes, plaguicidas y herbicidas</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>9. La contaminación del suelo por la minería se da por: </p>
+<multiplechoiceresponse>
+  <choicegroup label="9. La contaminación del suelo por la minería se da por: " type="MultipleChoice">
+    <choice correct="false">a. Vertido directo de productos líquidos</choice>
+    <choice correct="false">b. Infiltración de productos de lixiviación</choice>
+    <choice correct="false">c. Agua de relave</choice>
+    <choice correct="true">d. Todas la anteriores</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>10. Los efectos de la lluvia ácida en el suelo produce :</p>
+<multiplechoiceresponse>
+  <choicegroup label="10. Los efectos de la lluvia ácida en el suelo produce :" type="MultipleChoice">
+    <choice correct="true">a. Variación del pH</choice>
+    <choice correct="false">b. Aumento de los nutrientes</choice>
+    <choice correct="false">c. Disminución de nutrientes</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>¿Tuvo algún inconveniente en resolver esta evaluación? Si es así, no se desanime, revise nuevamente el contenido de la unidad con la finalidad de mejorar su aprendizaje.</p>
+<p>Felicitaciones, ha finalizado esta unidad y por lo tanto está en condiciones de continuar con el tema siguiente.</p>
+
+</problem>

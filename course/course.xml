@@ -1,0 +1,16 @@
+<course advanced_modules="[&quot;annotatable&quot;, &quot;word_cloud&quot;, &quot;split_test&quot;, &quot;poll&quot;, &quot;google-document&quot;]" advertised_start="null" catalog_visibility="both" course_image="portada.jpg" display_name="Contaminación Atmosférica (3ª edición)" end="&quot;2017-05-26T23:59:00+00:00&quot;" enrollment_end="&quot;2017-04-17T05:00:00+00:00&quot;" enrollment_start="&quot;2017-03-23T05:00:00+00:00&quot;" graceperiod="18000 seconds" is_new="true" language="es" minimum_grade_credit="0.8" start="&quot;2017-04-10T05:00:00+00:00&quot;">
+  <chapter url_name="9b997bfbbe994acface2d81d1ca4ea3b"/>
+  <chapter url_name="fd4f9df949d94911bc4bf14ef20c0df5"/>
+  <chapter url_name="7d0c6920390c4f18b22837559edfe7d7"/>
+  <chapter url_name="806108f7e7a34bb1b27cb5f95b5d0842"/>
+  <chapter url_name="5d76a64370e042bc8dff692aaad9fd92"/>
+  <chapter url_name="07e72c975879469790c3a75ceb719167"/>
+  <chapter url_name="6fa9f05b23314e0a96b9c82158be33e3"/>
+  <chapter url_name="7e8637a13d79408e94c82bc53e21d1c1"/>
+  <chapter url_name="6b80f7ce2bf94040955254834bbcf9b0"/>
+  <chapter url_name="3fe38c0e8cb1472bab6cb9a03cd61410"/>
+  <chapter url_name="d53922bc26f8436f8417b00465cbcb11"/>
+  <chapter url_name="93b06528c47444f189d3299df94c247f"/>
+  <chapter url_name="070898c5dcac4bf08f439a7166f9443b"/>
+  <wiki slug="UTPL.AIRPOLLUTION-Ed3.ABR_2017"/>
+</course>

@@ -1,0 +1,98 @@
+<problem display_name="Cuestionario" markdown="Lea detenidamente las siguientes preposiciones y seleccione la respuesta correcta:&#10;&#10;&gt;&gt;1. Las sustancias contaminantes del agua se clasifican en:&lt;&lt;&#10;(x) a. Organismos patógenos, orgánicos e inorgánicos.&#10;( ) b. Agua en la tierra, agua dulce, agua superficial.&#10;( ) c. Homogéneos, heterogéneos.&#10;&#10;&gt;&gt;2. Los hidrocarburos y los solventes, se consideran contaminantes:&lt;&lt;&#10;( ) a. Por organismos patógenos.&#10;( ) b. Inorgánicos&#10;(x) c. Orgánicos.&#10;&#10;&gt;&gt;3. Los cambios en las condiciones de composición del agua (bionutrientes, sustancias orgánicas e inorgánicas), pertenecen a la contaminación:&lt;&lt;&#10;( ) a. Biológica&#10;(x) b. Química&#10;( ) c. Física&#10;&#10;&gt;&gt;4. ¿El color, sabor, temperatura y turbidez son parámetros considerados para medir la calidad del agua?&lt;&lt;&#10;( ) a. Verdadero&#10;( ) b. Falso&#10;(x) c. Son una parte de los parámetros&#10;&#10;&gt;&gt;5. La capa superficial del agua de un lago en la que hay disolución de gases de la atmósfera se conoce como:&lt;&lt;&#10;( ) a. Hipolimnion&#10;(x) b. Epilimnion&#10;( ) c. Coadyuvante&#10;&#10;&gt;&gt;6. Se consideran fuentes  difusas de contaminación del agua:&lt;&lt;&#10;( ) a. Desecho de una industria &#10;( ) b. Descarga de una planta de tratamiento&#10;(x) c. Deposición de contaminantes atmosféricos&#10;&#10;&gt;&gt;7. Lo que se produce cuando hay exceso de bio nutrientes que facilitan un crecimiento acelerado de plantas, algas y otros organismos fotosintéticos, se conoce como:&lt;&lt;&#10;( ) a. Desequilibrio ecológico&#10;( ) b. Formación de complejos solubles&#10;(x) c. Eutrofización &#10;&#10;&gt;&gt;8. Los efectos del DAM en el agua produce:&lt;&lt;&#10;(x) a. Degradación de la calidad del agua&#10;( ) b. Mejor posibilidad de la vida acuática&#10;( ) c. La formación de nutrientes&#10;&#10;&gt;&gt;9. El ácido producido en un drenaje ácido de la minería es el:&lt;&lt;&#10;( ) a. Clorhídrico&#10;( ) b. Nítrico&#10;(x) c. Sulfúrico&#10;&#10;&gt;&gt;10. El drenaje ácido de la minería está considerado como una:&lt;&lt;&#10;( ) a. Contaminación leve&#10;(x) b. Máquina de contaminación perpetua&#10;( ) c. Alteración de la calidad del agua&#10;&#10;Si ya realizó la evaluación y obtuvo un 70% de aciertos puede continuar, de lo contrario, revise nuevamente la temática que requiere un poco más de dedicación.&#10;&#10;Ahora, vamos a  la siguiente unidad&#10;" weight="10.0">
+<p>Lea detenidamente las siguientes preposiciones y seleccione la respuesta correcta:</p>
+
+<p>1. Las sustancias contaminantes del agua se clasifican en:</p>
+<multiplechoiceresponse>
+  <choicegroup label="1. Las sustancias contaminantes del agua se clasifican en:" type="MultipleChoice">
+    <choice correct="true">a. Organismos patógenos, orgánicos e inorgánicos.</choice>
+    <choice correct="false">b. Agua en la tierra, agua dulce, agua superficial.</choice>
+    <choice correct="false">c. Homogéneos, heterogéneos.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2. Los hidrocarburos y los solventes, se consideran contaminantes:</p>
+<multiplechoiceresponse>
+  <choicegroup label="2. Los hidrocarburos y los solventes, se consideran contaminantes:" type="MultipleChoice">
+    <choice correct="false">a. Por organismos patógenos.</choice>
+    <choice correct="false">b. Inorgánicos</choice>
+    <choice correct="true">c. Orgánicos.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3. Los cambios en las condiciones de composición del agua (bionutrientes, sustancias orgánicas e inorgánicas), pertenecen a la contaminación:</p>
+<multiplechoiceresponse>
+  <choicegroup label="3. Los cambios en las condiciones de composición del agua (bionutrientes, sustancias orgánicas e inorgánicas), pertenecen a la contaminación:" type="MultipleChoice">
+    <choice correct="false">a. Biológica</choice>
+    <choice correct="true">b. Química</choice>
+    <choice correct="false">c. Física</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4. ¿El color, sabor, temperatura y turbidez son parámetros considerados para medir la calidad del agua?</p>
+<multiplechoiceresponse>
+  <choicegroup label="4. ¿El color, sabor, temperatura y turbidez son parámetros considerados para medir la calidad del agua?" type="MultipleChoice">
+    <choice correct="false">a. Verdadero</choice>
+    <choice correct="false">b. Falso</choice>
+    <choice correct="true">c. Son una parte de los parámetros</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5. La capa superficial del agua de un lago en la que hay disolución de gases de la atmósfera se conoce como:</p>
+<multiplechoiceresponse>
+  <choicegroup label="5. La capa superficial del agua de un lago en la que hay disolución de gases de la atmósfera se conoce como:" type="MultipleChoice">
+    <choice correct="false">a. Hipolimnion</choice>
+    <choice correct="true">b. Epilimnion</choice>
+    <choice correct="false">c. Coadyuvante</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>6. Se consideran fuentes  difusas de contaminación del agua:</p>
+<multiplechoiceresponse>
+  <choicegroup label="6. Se consideran fuentes  difusas de contaminación del agua:" type="MultipleChoice">
+    <choice correct="false">a. Desecho de una industria</choice>
+    <choice correct="false">b. Descarga de una planta de tratamiento</choice>
+    <choice correct="true">c. Deposición de contaminantes atmosféricos</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>7. Lo que se produce cuando hay exceso de bio nutrientes que facilitan un crecimiento acelerado de plantas, algas y otros organismos fotosintéticos, se conoce como:</p>
+<multiplechoiceresponse>
+  <choicegroup label="7. Lo que se produce cuando hay exceso de bio nutrientes que facilitan un crecimiento acelerado de plantas, algas y otros organismos fotosintéticos, se conoce como:" type="MultipleChoice">
+    <choice correct="false">a. Desequilibrio ecológico</choice>
+    <choice correct="false">b. Formación de complejos solubles</choice>
+    <choice correct="true">c. Eutrofización</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>8. Los efectos del DAM en el agua produce:</p>
+<multiplechoiceresponse>
+  <choicegroup label="8. Los efectos del DAM en el agua produce:" type="MultipleChoice">
+    <choice correct="true">a. Degradación de la calidad del agua</choice>
+    <choice correct="false">b. Mejor posibilidad de la vida acuática</choice>
+    <choice correct="false">c. La formación de nutrientes</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>9. El ácido producido en un drenaje ácido de la minería es el:</p>
+<multiplechoiceresponse>
+  <choicegroup label="9. El ácido producido en un drenaje ácido de la minería es el:" type="MultipleChoice">
+    <choice correct="false">a. Clorhídrico</choice>
+    <choice correct="false">b. Nítrico</choice>
+    <choice correct="true">c. Sulfúrico</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>10. El drenaje ácido de la minería está considerado como una:</p>
+<multiplechoiceresponse>
+  <choicegroup label="10. El drenaje ácido de la minería está considerado como una:" type="MultipleChoice">
+    <choice correct="false">a. Contaminación leve</choice>
+    <choice correct="true">b. Máquina de contaminación perpetua</choice>
+    <choice correct="false">c. Alteración de la calidad del agua</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Si ya realizó la evaluación y obtuvo un 70% de aciertos puede continuar, de lo contrario, revise nuevamente la temática que requiere un poco más de dedicación.</p>
+
+<p>Ahora, vamos a  la siguiente unidad</p>
+
+</problem>

@@ -1,0 +1,97 @@
+<problem display_name="Cuestionario" markdown="Lea detenidamente las siguientes preposiciones y seleccione la respuesta correcta&#10;&#10;&gt;&gt;1. La composición del aire en condiciones normales es:&lt;&lt;&#10;(x) a. 78% Nitrógeno, 21% Oxígeno, 1% otros compuestos.&#10;( ) b. 71% Nitrógeno, 28% Oxígeno, 1% otros compuestos.&#10;( ) c. 61% Nitrógeno, 38% Oxígeno, 1% otros compuestos.&#10;&#10;&gt;&gt;2. Las fuentes de contaminación son:&lt;&lt;&#10;( ) a. Primaria y secundaria&#10;(x) b. Natural y antropogénica&#10;( ) c. Orgánica e inorgánica&#10;&#10;&gt;&gt;3. Se consideran como contaminantes primarios:&lt;&lt;&#10;(x) a. SOx, NOx&#10;( ) b. Material particulado, PAN&#10;( ) c. SO3, NO3&#10;&#10;&gt;&gt;4. El IMECA es el índice que evalúa la calidad de:&lt;&lt;&#10;( ) a. Ambiente&#10;( ) b. Agua&#10;(x) c. Aire&#10;&#10;&gt;&gt;5. Según los rangos de valoración de IMECA, la calidad es Buena cuando el valor oscila entre:&lt;&lt;&#10;(x) a. 0-50&#10;( ) b. 100-200&#10;( ) c. 0-10&#10;&#10;&gt;&gt;6. Cuando el valor de IMECA nos presenta un valor de 132, significa que la calidad de aire es:&lt;&lt;&#10;(x) a. Mala&#10;( ) b. Buena&#10;( ) c. Regular&#10;&#10;&gt;&gt;7. Si tenemos una industria cuyo funcionamiento genera emisiones y se encuentra ubicada en una zona  cálida y con baja corriente de aire, entonces hay posibilidad de:&lt;&lt;&#10;(x) a. Mayor contaminación de aire&#10;( ) b. Menor contaminación de aire&#10;( ) c. Condiciones normales de aire&#10;&#10;&gt;&gt;8. Como fuente de contaminación natural se considera:&lt;&lt;&#10;(x) a. Pantanos&#10;( ) b. Incendio forestal&#10;( ) c. Industria en funcionamiento&#10;&#10;&gt;&gt;9. Se dice que un contaminante es secundario cuando:&lt;&lt;&#10;( ) a. Se encuentra en pequeña cantidad&#10;(x) b. Es el resultado de dos o más procesos químicos en la atmósfera&#10;( ) c. Tiene amplia dispersión en el aire&#10;&#10;&gt;&gt;10. Las capas de inversión térmica en la tropósfera:&lt;&lt;&#10;(x) a. Impiden la dispersión vertical de los contaminantes&#10;( ) b. Contribuyen a la dispersión de contaminantes&#10;( ) c. No ocasionan problemas en la calidad de aire&#10;&#10;&#10;Si ya realizó la evaluación y obtuvo un 70% de aciertos puede continuar, de lo contrario, revise nuevamente la temática que requiere un poco más de dedicación.&#10;Ahora, vamos a  la siguiente unidad&#10;" max_attempts="2" weight="10.0">
+<p>Lea detenidamente las siguientes preposiciones y seleccione la respuesta correcta</p>
+
+<p>1. La composición del aire en condiciones normales es:</p>
+<multiplechoiceresponse>
+  <choicegroup label="1. La composición del aire en condiciones normales es:" type="MultipleChoice">
+    <choice correct="true">a. 78% Nitrógeno, 21% Oxígeno, 1% otros compuestos.</choice>
+    <choice correct="false">b. 71% Nitrógeno, 28% Oxígeno, 1% otros compuestos.</choice>
+    <choice correct="false">c. 61% Nitrógeno, 38% Oxígeno, 1% otros compuestos.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2. Las fuentes de contaminación son:</p>
+<multiplechoiceresponse>
+  <choicegroup label="2. Las fuentes de contaminación son:" type="MultipleChoice">
+    <choice correct="false">a. Primaria y secundaria</choice>
+    <choice correct="true">b. Natural y antropogénica</choice>
+    <choice correct="false">c. Orgánica e inorgánica</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3. Se consideran como contaminantes primarios:</p>
+<multiplechoiceresponse>
+  <choicegroup label="3. Se consideran como contaminantes primarios:" type="MultipleChoice">
+    <choice correct="true">a. SOx, NOx</choice>
+    <choice correct="false">b. Material particulado, PAN</choice>
+    <choice correct="false">c. SO3, NO3</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4. El IMECA es el índice que evalúa la calidad de:</p>
+<multiplechoiceresponse>
+  <choicegroup label="4. El IMECA es el índice que evalúa la calidad de:" type="MultipleChoice">
+    <choice correct="false">a. Ambiente</choice>
+    <choice correct="false">b. Agua</choice>
+    <choice correct="true">c. Aire</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5. Según los rangos de valoración de IMECA, la calidad es Buena cuando el valor oscila entre:</p>
+<multiplechoiceresponse>
+  <choicegroup label="5. Según los rangos de valoración de IMECA, la calidad es Buena cuando el valor oscila entre:" type="MultipleChoice">
+    <choice correct="true">a. 0-50</choice>
+    <choice correct="false">b. 100-200</choice>
+    <choice correct="false">c. 0-10</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>6. Cuando el valor de IMECA nos presenta un valor de 132, significa que la calidad de aire es:</p>
+<multiplechoiceresponse>
+  <choicegroup label="6. Cuando el valor de IMECA nos presenta un valor de 132, significa que la calidad de aire es:" type="MultipleChoice">
+    <choice correct="true">a. Mala</choice>
+    <choice correct="false">b. Buena</choice>
+    <choice correct="false">c. Regular</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>7. Si tenemos una industria cuyo funcionamiento genera emisiones y se encuentra ubicada en una zona  cálida y con baja corriente de aire, entonces hay posibilidad de:</p>
+<multiplechoiceresponse>
+  <choicegroup label="7. Si tenemos una industria cuyo funcionamiento genera emisiones y se encuentra ubicada en una zona  cálida y con baja corriente de aire, entonces hay posibilidad de:" type="MultipleChoice">
+    <choice correct="true">a. Mayor contaminación de aire</choice>
+    <choice correct="false">b. Menor contaminación de aire</choice>
+    <choice correct="false">c. Condiciones normales de aire</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>8. Como fuente de contaminación natural se considera:</p>
+<multiplechoiceresponse>
+  <choicegroup label="8. Como fuente de contaminación natural se considera:" type="MultipleChoice">
+    <choice correct="true">a. Pantanos</choice>
+    <choice correct="false">b. Incendio forestal</choice>
+    <choice correct="false">c. Industria en funcionamiento</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>9. Se dice que un contaminante es secundario cuando:</p>
+<multiplechoiceresponse>
+  <choicegroup label="9. Se dice que un contaminante es secundario cuando:" type="MultipleChoice">
+    <choice correct="false">a. Se encuentra en pequeña cantidad</choice>
+    <choice correct="true">b. Es el resultado de dos o más procesos químicos en la atmósfera</choice>
+    <choice correct="false">c. Tiene amplia dispersión en el aire</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>10. Las capas de inversión térmica en la tropósfera:</p>
+<multiplechoiceresponse>
+  <choicegroup label="10. Las capas de inversión térmica en la tropósfera:" type="MultipleChoice">
+    <choice correct="true">a. Impiden la dispersión vertical de los contaminantes</choice>
+    <choice correct="false">b. Contribuyen a la dispersión de contaminantes</choice>
+    <choice correct="false">c. No ocasionan problemas en la calidad de aire</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Si ya realizó la evaluación y obtuvo un 70% de aciertos puede continuar, de lo contrario, revise nuevamente la temática que requiere un poco más de dedicación.</p>
+<p>Ahora, vamos a  la siguiente unidad</p>
+
+</problem>

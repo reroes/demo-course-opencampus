@@ -1,0 +1,98 @@
+<problem display_name="Cuestionario " markdown="Lea detenidamente las siguientes preposiciones  y señale la respuesta correcta&#10;&#10;&gt;&gt;1. La contaminación acústica es originado por la emisión de:&lt;&lt;&#10;(x) a. Ruido&#10;( ) b. Material particulado&#10;( ) c. Emisiones gaseosas&#10;&#10;&gt;&gt;2. Se considera ruido a un sonido:&lt;&lt;&#10;( ) a. De bajo impacto sobre la audición&#10;(x) b. Molestoso, indeseable&#10;( ) c. Imperceptible a las personas&#10;&#10;&gt;&gt;3. La ubicación  de un aeropuerto cerca de una zona poblada con emisiones constantes de 140 dB por la confluencia de aviones genera:&lt;&lt;&#10;(x) a. Contaminación acústica&#10;( ) b. Contaminación visual&#10;( ) c. Contaminación por residuos&#10;&#10;&gt;&gt;4. El equipo que permite medir los niveles de ruido que emiten las fuentes fijas y móviles se denomina:&lt;&lt;&#10;( ) a. Medidor de flujo de aire&#10;( ) b. Espectrofotómetro&#10;(x) c. Sonómetro&#10;&#10;&gt;&gt;5. Los niveles de ruido se miden en:&lt;&lt;&#10;(x) a. Decibeles&#10;( ) b. Kilogramos&#10;( ) c. Milímetros&#10;&#10;&gt;&gt;6. Si  nos encontramos en una zona considerada como residencial y  monitoreamos el nivel de ruido, y éste se encuentra sobre los 80 dB;   se considera que éstos se encuentran:&lt;&lt;&#10;(x) a. Sobre los límites máximos permisibles para esa zona&#10;( ) b. Bajo los límites máximos permisibles&#10;( ) c. Con los límites máximos permisibles&#10;&#10;&gt;&gt;7. Los límites máximos permisibles de ruido para una zona comercial en horario diurno es:&lt;&lt;&#10;( ) a. 55 dB&#10;( ) b. 85 dB&#10;(x) c. 70 dB&#10;&#10;&gt;&gt;8. El trauma acústico, es una pérdida de:&lt;&lt;&#10;(x) a. Audición&#10;( ) b. Conciencia&#10;( ) c. Visión&#10;&#10;&gt;&gt;9. Los límites máximos permisibles en una zona  Industrial III  en periodo nocturno es:&lt;&lt;&#10;( ) a. 65 dB&#10;( ) b. 95 dB&#10;(x) c. 75 dB&#10;&#10;&gt;&gt;10. Son mecanismos de contaminación por la minería: &lt;&lt;&#10;( ) a. Instalaciones eléctricas, maquinaria pesada&#10;(x) b. Voladuras, tráfico pesado, maquinaria&#10;( ) c. Tránsito de automóviles, construcción de edificios&#10;&#10;¿Cómo le fue en la evaluación? Estamos seguros que muy bien. Si no es así revise nuevamente el contenido de la unidad.&#10;Avancemos con la siguiente unidad&#10;&#10;" max_attempts="1" weight="10.0">
+<p>Lea detenidamente las siguientes preposiciones  y señale la respuesta correcta</p>
+
+<p>1. La contaminación acústica es originado por la emisión de:</p>
+<multiplechoiceresponse>
+  <choicegroup label="1. La contaminación acústica es originado por la emisión de:" type="MultipleChoice">
+    <choice correct="true">a. Ruido</choice>
+    <choice correct="false">b. Material particulado</choice>
+    <choice correct="false">c. Emisiones gaseosas</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2. Se considera ruido a un sonido:</p>
+<multiplechoiceresponse>
+  <choicegroup label="2. Se considera ruido a un sonido:" type="MultipleChoice">
+    <choice correct="false">a. De bajo impacto sobre la audición</choice>
+    <choice correct="true">b. Molestoso, indeseable</choice>
+    <choice correct="false">c. Imperceptible a las personas</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3. La ubicación  de un aeropuerto cerca de una zona poblada con emisiones constantes de 140 dB por la confluencia de aviones genera:</p>
+<multiplechoiceresponse>
+  <choicegroup label="3. La ubicación  de un aeropuerto cerca de una zona poblada con emisiones constantes de 140 dB por la confluencia de aviones genera:" type="MultipleChoice">
+    <choice correct="true">a. Contaminación acústica</choice>
+    <choice correct="false">b. Contaminación visual</choice>
+    <choice correct="false">c. Contaminación por residuos</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4. El equipo que permite medir los niveles de ruido que emiten las fuentes fijas y móviles se denomina:</p>
+<multiplechoiceresponse>
+  <choicegroup label="4. El equipo que permite medir los niveles de ruido que emiten las fuentes fijas y móviles se denomina:" type="MultipleChoice">
+    <choice correct="false">a. Medidor de flujo de aire</choice>
+    <choice correct="false">b. Espectrofotómetro</choice>
+    <choice correct="true">c. Sonómetro</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5. Los niveles de ruido se miden en:</p>
+<multiplechoiceresponse>
+  <choicegroup label="5. Los niveles de ruido se miden en:" type="MultipleChoice">
+    <choice correct="true">a. Decibeles</choice>
+    <choice correct="false">b. Kilogramos</choice>
+    <choice correct="false">c. Milímetros</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>6. Si  nos encontramos en una zona considerada como residencial y  monitoreamos el nivel de ruido, y éste se encuentra sobre los 80 dB;   se considera que éstos se encuentran:</p>
+<multiplechoiceresponse>
+  <choicegroup label="6. Si  nos encontramos en una zona considerada como residencial y  monitoreamos el nivel de ruido, y éste se encuentra sobre los 80 dB;   se considera que éstos se encuentran:" type="MultipleChoice">
+    <choice correct="true">a. Sobre los límites máximos permisibles para esa zona</choice>
+    <choice correct="false">b. Bajo los límites máximos permisibles</choice>
+    <choice correct="false">c. Con los límites máximos permisibles</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>7. Los límites máximos permisibles de ruido para una zona comercial en horario diurno es:</p>
+<multiplechoiceresponse>
+  <choicegroup label="7. Los límites máximos permisibles de ruido para una zona comercial en horario diurno es:" type="MultipleChoice">
+    <choice correct="false">a. 55 dB</choice>
+    <choice correct="false">b. 85 dB</choice>
+    <choice correct="true">c. 70 dB</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>8. El trauma acústico, es una pérdida de:</p>
+<multiplechoiceresponse>
+  <choicegroup label="8. El trauma acústico, es una pérdida de:" type="MultipleChoice">
+    <choice correct="true">a. Audición</choice>
+    <choice correct="false">b. Conciencia</choice>
+    <choice correct="false">c. Visión</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>9. Los límites máximos permisibles en una zona  Industrial III  en periodo nocturno es:</p>
+<multiplechoiceresponse>
+  <choicegroup label="9. Los límites máximos permisibles en una zona  Industrial III  en periodo nocturno es:" type="MultipleChoice">
+    <choice correct="false">a. 65 dB</choice>
+    <choice correct="false">b. 95 dB</choice>
+    <choice correct="true">c. 75 dB</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>10. Son mecanismos de contaminación por la minería: </p>
+<multiplechoiceresponse>
+  <choicegroup label="10. Son mecanismos de contaminación por la minería: " type="MultipleChoice">
+    <choice correct="false">a. Instalaciones eléctricas, maquinaria pesada</choice>
+    <choice correct="true">b. Voladuras, tráfico pesado, maquinaria</choice>
+    <choice correct="false">c. Tránsito de automóviles, construcción de edificios</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>¿Cómo le fue en la evaluación? Estamos seguros que muy bien. Si no es así revise nuevamente el contenido de la unidad.</p>
+<p>Avancemos con la siguiente unidad</p>
+
+
+</problem>

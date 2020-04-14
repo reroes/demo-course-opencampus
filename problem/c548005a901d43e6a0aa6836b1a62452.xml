@@ -1,0 +1,98 @@
+<problem display_name="Cuestionario" markdown="Les detenidamente las siguientes proposiciones y seleccione la respuesta correcta&#10;&#10;&gt;&gt;1. El ozono actúa como  un filtro solar evitando el paso de una fracción de la radiación ultravioleta:&lt;&lt;&#10;( ) a. UV-A&#10;(x) b. UV-B&#10;( ) c. UV-C&#10;&#10;&gt;&gt;2. La cantidad de radiación UV que llega a la tierra, en un punto específico depende de factores como:&lt;&lt;&#10;( ) a. Presencia de nubes&#10;( ) b. Velocidad  del  viento&#10;(x) c. Posición del sol, cantidad de ozono, presencia de nubes y polución del lugar&#10;&#10;&gt;&gt;3. Se calcula que la temperatura derretirá las capas polares en un periodo de: &lt;&lt;&#10;( ) a. 30 años&#10;(x) b. 50 años&#10;( ) c. 15 años&#10;&#10;&gt;&gt;4. El Calentamiento natural de la Tierra se debe a:&lt;&lt;&#10;(x) a. Efecto invernadero&#10;( ) b. Calentamiento global&#10;( ) c. Ciclo hidrológico&#10;&#10;&gt;&gt;5. El aumento en el nivel del mar se debe a:&lt;&lt;&#10;( ) a. Las olas&#10;(x) b. Derretimiento de las capas polares&#10;( ) c. Inviernos intensos&#10;&#10;&gt;&gt;6. La alteración en el ciclo de producción de los alimentos se debe a:&lt;&lt;&#10;(x) a. Efectos del calentamiento global&#10;( ) b. Ciclo hidrológico&#10;( ) c. Efecto invernadero&#10;&#10;&gt;&gt;7. Los huracanes y tormentas es otro de los efectos:&lt;&lt;&#10;( ) a. De la modernidad&#10;( ) b. Del fenómeno del niño&#10;(x) c. Del calentamiento global&#10;&#10;&gt;&gt;8. El calentamiento global produce:&lt;&lt;&#10;( ) a. Aumento de las fuentes de agua potable&#10;(x) b. Disminución de las fuentes de agua potable&#10;( ) c. Mejoramiento de la calidad de las fuentes de abastecimiento de agua.&#10;&#10;&gt;&gt;9. Como consecuencia del calentamiento global la población sufre de enfermedades:&lt;&lt;&#10;( ) a. Bacterianas&#10;(x) b. Respiratorias y de la piel&#10;( ) c. Musculares&#10;&#10;&gt;&gt;10. La actividad minera tiene una incidencia en el calentamiento global considerada como:&lt;&lt;&#10;(x) a. La principal causa&#10;( ) b. Indiferente&#10;( ) c. Medianamente influyente&#10;&#10;Concluida la evaluación si usted obtuvo un 70% de aciertos puede continuar; de lo contrario regrese y revise nuevamente la temática que requiere un poco más de dedicación.&#10;&#10;Una vez revisado los contenidos y haber desarrollado todas las evaluaciones, es importante ir al apartado de cierre del curso.&#10;" max_attempts="1" weight="10.0">
+<p>Les detenidamente las siguientes proposiciones y seleccione la respuesta correcta</p>
+
+<p>1. El ozono actúa como  un filtro solar evitando el paso de una fracción de la radiación ultravioleta:</p>
+<multiplechoiceresponse>
+  <choicegroup label="1. El ozono actúa como  un filtro solar evitando el paso de una fracción de la radiación ultravioleta:" type="MultipleChoice">
+    <choice correct="false">a. UV-A</choice>
+    <choice correct="true">b. UV-B</choice>
+    <choice correct="false">c. UV-C</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2. La cantidad de radiación UV que llega a la tierra, en un punto específico depende de factores como:</p>
+<multiplechoiceresponse>
+  <choicegroup label="2. La cantidad de radiación UV que llega a la tierra, en un punto específico depende de factores como:" type="MultipleChoice">
+    <choice correct="false">a. Presencia de nubes</choice>
+    <choice correct="false">b. Velocidad  del  viento</choice>
+    <choice correct="true">c. Posición del sol, cantidad de ozono, presencia de nubes y polución del lugar</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3. Se calcula que la temperatura derretirá las capas polares en un periodo de: </p>
+<multiplechoiceresponse>
+  <choicegroup label="3. Se calcula que la temperatura derretirá las capas polares en un periodo de: " type="MultipleChoice">
+    <choice correct="false">a. 30 años</choice>
+    <choice correct="true">b. 50 años</choice>
+    <choice correct="false">c. 15 años</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4. El Calentamiento natural de la Tierra se debe a:</p>
+<multiplechoiceresponse>
+  <choicegroup label="4. El Calentamiento natural de la Tierra se debe a:" type="MultipleChoice">
+    <choice correct="true">a. Efecto invernadero</choice>
+    <choice correct="false">b. Calentamiento global</choice>
+    <choice correct="false">c. Ciclo hidrológico</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5. El aumento en el nivel del mar se debe a:</p>
+<multiplechoiceresponse>
+  <choicegroup label="5. El aumento en el nivel del mar se debe a:" type="MultipleChoice">
+    <choice correct="false">a. Las olas</choice>
+    <choice correct="true">b. Derretimiento de las capas polares</choice>
+    <choice correct="false">c. Inviernos intensos</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>6. La alteración en el ciclo de producción de los alimentos se debe a:</p>
+<multiplechoiceresponse>
+  <choicegroup label="6. La alteración en el ciclo de producción de los alimentos se debe a:" type="MultipleChoice">
+    <choice correct="true">a. Efectos del calentamiento global</choice>
+    <choice correct="false">b. Ciclo hidrológico</choice>
+    <choice correct="false">c. Efecto invernadero</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>7. Los huracanes y tormentas es otro de los efectos:</p>
+<multiplechoiceresponse>
+  <choicegroup label="7. Los huracanes y tormentas es otro de los efectos:" type="MultipleChoice">
+    <choice correct="false">a. De la modernidad</choice>
+    <choice correct="false">b. Del fenómeno del niño</choice>
+    <choice correct="true">c. Del calentamiento global</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>8. El calentamiento global produce:</p>
+<multiplechoiceresponse>
+  <choicegroup label="8. El calentamiento global produce:" type="MultipleChoice">
+    <choice correct="false">a. Aumento de las fuentes de agua potable</choice>
+    <choice correct="true">b. Disminución de las fuentes de agua potable</choice>
+    <choice correct="false">c. Mejoramiento de la calidad de las fuentes de abastecimiento de agua.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>9. Como consecuencia del calentamiento global la población sufre de enfermedades:</p>
+<multiplechoiceresponse>
+  <choicegroup label="9. Como consecuencia del calentamiento global la población sufre de enfermedades:" type="MultipleChoice">
+    <choice correct="false">a. Bacterianas</choice>
+    <choice correct="true">b. Respiratorias y de la piel</choice>
+    <choice correct="false">c. Musculares</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>10. La actividad minera tiene una incidencia en el calentamiento global considerada como:</p>
+<multiplechoiceresponse>
+  <choicegroup label="10. La actividad minera tiene una incidencia en el calentamiento global considerada como:" type="MultipleChoice">
+    <choice correct="true">a. La principal causa</choice>
+    <choice correct="false">b. Indiferente</choice>
+    <choice correct="false">c. Medianamente influyente</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Concluida la evaluación si usted obtuvo un 70% de aciertos puede continuar; de lo contrario regrese y revise nuevamente la temática que requiere un poco más de dedicación.</p>
+
+<p>Una vez revisado los contenidos y haber desarrollado todas las evaluaciones, es importante ir al apartado de cierre del curso.</p>
+
+</problem>

@@ -1,0 +1,95 @@
+<problem display_name="Cuestionario_5" markdown="Lea detenidamente  las siguientes preposiciones y seleccione la respuesta  correcta:&#10;&#10;&gt;&gt;1. Según  la definición expuesta, los residuos sólidos  son:&lt;&lt;&#10;( ) a. Olores emitidos por las empresas durante su funcionamiento&#10;( ) b. Gases expuestos a procesos químicos&#10;(x) c. Sustancias, objetos o materias del cual su generador se desprende.&#10;&#10;&gt;&gt;2. Los residuos sólidos urbanos son:&lt;&lt;&#10;(x) a. Residuos de Domicilios&#10;( ) b. Residuos generados en laboratorio clínicos&#10;( ) c. Residuos industriales&#10;&#10;&gt;&gt;3. Las cubiertas usadas, aceites, baterías se consideran:&lt;&lt;&#10;( ) a. Residuos sólidos urbanos&#10;( ) b. Residuos hospitalarios&#10;(x) c. Residuos especiales&#10;&#10;&gt;&gt;4. Los aspectos básicos para la gestión de los residuos sólidos considera:&lt;&lt;&#10;(x) a. Sistemas sustentables y eficaces&#10;( ) b. Generación en la fuente&#10;( ) c. Disposición final adecuada&#10;&#10;&gt;&gt;5. El reciclaje y reutilización de ciertos residuos sólidos  se puede considerar como una estrategia  de:&lt;&lt;&#10;( ) a. Negocios&#10;(x) b. Gestión&#10;( ) c. Disposición&#10;&#10;&gt;&gt;6. Dentro de los residuos que se pueden reutilizar se encuentran:&lt;&lt;&#10;( ) a. Baterías de Pb&#10;(x) b. Botellas de vidrio&#10;( ) c. Residuos hospitalarios&#10;&#10;&gt;&gt;7. Los residuos utilizados en los centros de salud pueden ser:&lt;&lt;&#10;( ) a. Reutilizables&#10;( ) b. Tratados&#10;(x) c. Incinerados&#10;&#10;&gt;&gt;8. Las pilas y baterías una vez que han  cumplido  su vida útil deben ser:&lt;&lt;&#10;( ) a. Incineradas&#10;(x) b. Tratadas &#10;( ) c. Desechadas junto a los residuos sólidos urbanos&#10;&#10;&gt;&gt;9. Los residuos sólidos hospitalarios son considerados:&lt;&lt;&#10;(x) a. Peligrosos&#10;( ) b. Industriales&#10;( ) c. Urbanos&#10;&#10;&gt;&gt;10. Los rellenos sanitarios son espacios destinados a:&lt;&lt;&#10;(x) a. Disposición final de residuos&#10;( ) b. Recreación de la población&#10;( ) c. Áreas de conservación&#10;&#10;&#10;Concluida la evaluación si usted obtuvo un 70% de aciertos puede continuar; de lo contrario regrese y revise nuevamente la temática que requiere un poco más de dedicación." max_attempts="2" weight="10.0">
+<p>Lea detenidamente  las siguientes preposiciones y seleccione la respuesta  correcta:</p>
+
+<p>1. Según  la definición expuesta, los residuos sólidos  son:</p>
+<multiplechoiceresponse>
+  <choicegroup label="1. Según  la definición expuesta, los residuos sólidos  son:" type="MultipleChoice">
+    <choice correct="false">a. Olores emitidos por las empresas durante su funcionamiento</choice>
+    <choice correct="false">b. Gases expuestos a procesos químicos</choice>
+    <choice correct="true">c. Sustancias, objetos o materias del cual su generador se desprende.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2. Los residuos sólidos urbanos son:</p>
+<multiplechoiceresponse>
+  <choicegroup label="2. Los residuos sólidos urbanos son:" type="MultipleChoice">
+    <choice correct="true">a. Residuos de Domicilios</choice>
+    <choice correct="false">b. Residuos generados en laboratorio clínicos</choice>
+    <choice correct="false">c. Residuos industriales</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3. Las cubiertas usadas, aceites, baterías se consideran:</p>
+<multiplechoiceresponse>
+  <choicegroup label="3. Las cubiertas usadas, aceites, baterías se consideran:" type="MultipleChoice">
+    <choice correct="false">a. Residuos sólidos urbanos</choice>
+    <choice correct="false">b. Residuos hospitalarios</choice>
+    <choice correct="true">c. Residuos especiales</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4. Los aspectos básicos para la gestión de los residuos sólidos considera:</p>
+<multiplechoiceresponse>
+  <choicegroup label="4. Los aspectos básicos para la gestión de los residuos sólidos considera:" type="MultipleChoice">
+    <choice correct="true">a. Sistemas sustentables y eficaces</choice>
+    <choice correct="false">b. Generación en la fuente</choice>
+    <choice correct="false">c. Disposición final adecuada</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5. El reciclaje y reutilización de ciertos residuos sólidos  se puede considerar como una estrategia  de:</p>
+<multiplechoiceresponse>
+  <choicegroup label="5. El reciclaje y reutilización de ciertos residuos sólidos  se puede considerar como una estrategia  de:" type="MultipleChoice">
+    <choice correct="false">a. Negocios</choice>
+    <choice correct="true">b. Gestión</choice>
+    <choice correct="false">c. Disposición</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>6. Dentro de los residuos que se pueden reutilizar se encuentran:</p>
+<multiplechoiceresponse>
+  <choicegroup label="6. Dentro de los residuos que se pueden reutilizar se encuentran:" type="MultipleChoice">
+    <choice correct="false">a. Baterías de Pb</choice>
+    <choice correct="true">b. Botellas de vidrio</choice>
+    <choice correct="false">c. Residuos hospitalarios</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>7. Los residuos utilizados en los centros de salud pueden ser:</p>
+<multiplechoiceresponse>
+  <choicegroup label="7. Los residuos utilizados en los centros de salud pueden ser:" type="MultipleChoice">
+    <choice correct="false">a. Reutilizables</choice>
+    <choice correct="false">b. Tratados</choice>
+    <choice correct="true">c. Incinerados</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>8. Las pilas y baterías una vez que han  cumplido  su vida útil deben ser:</p>
+<multiplechoiceresponse>
+  <choicegroup label="8. Las pilas y baterías una vez que han  cumplido  su vida útil deben ser:" type="MultipleChoice">
+    <choice correct="false">a. Incineradas</choice>
+    <choice correct="true">b. Tratadas</choice>
+    <choice correct="false">c. Desechadas junto a los residuos sólidos urbanos</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>9. Los residuos sólidos hospitalarios son considerados:</p>
+<multiplechoiceresponse>
+  <choicegroup label="9. Los residuos sólidos hospitalarios son considerados:" type="MultipleChoice">
+    <choice correct="true">a. Peligrosos</choice>
+    <choice correct="false">b. Industriales</choice>
+    <choice correct="false">c. Urbanos</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>10. Los rellenos sanitarios son espacios destinados a:</p>
+<multiplechoiceresponse>
+  <choicegroup label="10. Los rellenos sanitarios son espacios destinados a:" type="MultipleChoice">
+    <choice correct="true">a. Disposición final de residuos</choice>
+    <choice correct="false">b. Recreación de la población</choice>
+    <choice correct="false">c. Áreas de conservación</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Concluida la evaluación si usted obtuvo un 70% de aciertos puede continuar; de lo contrario regrese y revise nuevamente la temática que requiere un poco más de dedicación.</p>
+</problem>
